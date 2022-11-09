@@ -35,7 +35,7 @@ These are:-
 
 Add a Star 🌟 to this 👆 Repository.<br>
 For Sponsor or Project Enquiry
-Email - guruvelli3123@gmail.com
+Email - gunasaikiran8055@gmail.com
 
 Follow Me on
-LinkedIn - <a href="https://www.linkedin.com/in/chaitra-guruvelli-b948a7238//">Chaitra Guruvelli</a>
+LinkedIn - <a href="https://www.linkedin.com/in/guna-sai-kiran-b526a2220/</a>
