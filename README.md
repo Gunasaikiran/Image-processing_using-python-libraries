@@ -14,22 +14,28 @@ These are:-
 4.Pandas<br>
 
 <h2>Outputs:</h2>
+<h3>Original Image</h3>
+<p align="center">
+  <img src="https://github.com/Gunasaikiran/Image-processing_using-python-libraries/blob/main/Orginal.png" >
+</p>
+
+
 <h3>Part 1:Colour Detection</h3>
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
+  <img src="https://github.com/Gunasaikiran/Image-processing_using-python-libraries/blob/main/part1.png" >
 </p>
 
 
 
 <h3>Part 2:Image Filtering</h3>
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
+  <img src="https://github.com/Gunasaikiran/Image-processing_using-python-libraries/blob/main/part3.png" >
 </p>
 
 
 <h3>Part 3:Conversion of RBG image to Black and White image.</h3>
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
+  <img src="https://github.com/Gunasaikiran/Image-processing_using-python-libraries/blob/main/part3.png" >
 </p>
 
 
