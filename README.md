@@ -16,7 +16,7 @@ These are:-
 <h2>Outputs:</h2>
 <h3>Original Image</h3>
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Image-processing_using-python-libraries/blob/main/Image.jpg" >
+  <img src="https://github.com/Gunasaikiran/Image-processing_using-python-libraries/blob/main/image.jpg" >
 </p>
 
 
